@@ -14,7 +14,8 @@ To launch the app, do the following
 --- Clone or download the project into a folder your server has access to
 --- Launch your server (apache, nginx
 --- In your browser, type in: localhost:port/name_folder_/presentation.php 
-    where port is the port on which your server is kistening on and folder_name is the folder containig project files(EasyShop    if you clone the repository)
+    where port is the port on which your server is kistening on and folder_name is the folder containig project files(EasyShop if you clone the 
+    repository)
    
  Example: localhost:80/EasyShop/presentation.php
     
