@@ -1,0 +1,169 @@
+
+
+/*--------------NEW----------------*/
+
+#navBarLeft{
+  border: double;
+  background-color: #DFE3D3; 
+  margin-top: 20px; 
+  width:250px;
+}
+h5{
+  border-bottom: double;
+}
+.sidebar-nav li a{
+  font-size: 10px;
+
+}
+#menu {
+  float: left;
+  width: 15%;
+}
+#contenido {
+  float: left;
+  width: 85%;
+}
+#logo{
+  position: absolute; 
+  margin-left: -105px;
+}
+#simbolo{
+  position: absolute;
+  margin-left: -30px;
+}
+
+#table{
+  
+  width:900px;
+  height:100%;
+  overflow:auto; 
+  margin-left: 24%;
+  margin-right: 3%; 
+  margin-top: 60px; 
+  background-color: #ddddcc;
+}
+#marginSides{
+  margin-left: 40%;
+  margin-right: 40%"
+}
+#padding{
+  padding-left: 230px
+}
+.navbar-nav.navbar-right .btn {
+ position: relative; z-index: 2; padding: 4px 20px; margin: 10px auto; }
+
+.navbar .navbar-collapse { 
+  position: relative; 
+  height: 100px; 
+  margin-top: -20px;
+}
+.navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 22px; }
+
+/*.navbar .nav-collapse { position: absolute; z-index: 1; top: 0; left: 0; right: 0; bottom: 0; margin: 0; padding-right: 120px; padding-left: 80px; width: 100%; }*/
+
+/*.navbar.navbar-default .nav-collapse { background-color: #f8f8f8; }
+.navbar.navbar-inverse .nav-collapse { background-color: #222; }*/
+/*.navbar .nav-collapse .navbar-form { border-width: 0; box-shadow: none; }*/
+.nav-collapse>li { float: right; }
+/*  DESGIN ---------------------------------------------------------------------------------------------------------------------------------*/
+#navigator{
+  width: 92%;
+  left: 53px;
+  top:40px;
+  background: rgba(255,255,240, 0.8);
+
+  height: 100px;
+}
+#content{
+  position: relative;
+  width: 92%;
+  left: 53px;
+  top:40px;
+  background: rgba(255,255,240, 0.8);
+  font-family: 'Open Sans' , sans-serif;
+  text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Open Sans' , sans-serif;
+
+}
+body{
+  background: rgba(0, 0, 0, 0.3);
+}
+footer
+{
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: relative;
+    height: 12%;
+    font-family: 'Open Sans' , sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Open Sans' , sans-serif;
+}
+.link-area li{
+  font-size: 9px;
+}
+.link-area p{
+  font-size: 11px;
+
+}
+/*--------------------*/
+.btn.btn-circle { border-radius: 50px; }
+.btn.btn-outline { background-color: transparent; }
+
+@media screen and (max-width: 767px) {
+    .navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 15px; padding-right: 15px; } 
+    
+    .navbar .nav-collapse { margin: 7.5px auto; padding: 0; }
+    .navbar .nav-collapse .navbar-form { margin: 0; }
+    .nav-collapse>li { float: none; }
+}
+
+/*#shopButton{
+  position: relative;
+  top: 35px;
+    outline: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Open Sans' , sans-serif;
+    position: relative;
+  right: 40px;
+  border-radius: 30px;
+  background-color: transparent;
+  height: 30px;
+  margin-right: 10px;
+    
+}
+#userButton{
+  position: relative;
+  top: 35px;
+    outline: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Open Sans' , sans-serif;
+    position: relative;
+  right: 40px;
+  border-radius: 30px;
+  background-color: transparent;
+  height: 30px;
+
+}
+#textNav{
+  position: relative;
+  top: 35px;
+    outline: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Open Sans' , sans-serif;
+    
+ 
+    
+}*/

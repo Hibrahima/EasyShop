@@ -1,0 +1,39 @@
+#shopButton, #userButton, #loginButton{
+  position: relative;
+  top: 35px;
+    outline: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Open Sans' , sans-serif;
+    position: relative;
+  right: 40px;
+  border-radius: 30px;
+  background-color: transparent;
+  height: 30px;
+  margin-right: 10px;
+}
+#textNav{
+  position: relative;
+  top: 35px;
+    outline: 0;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: 'Open Sans' , sans-serif;
+}
+
+.nav__cart-count{
+    position: absolute;
+    top: -13px;
+    left: 2px;
+    width: 22px;
+    height: 22px;
+    border-radius: 100%;
+    font-family: "proxima-nova",Arial,sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: center;
+    background-color: #d7171e;
+    color: white;
+}
