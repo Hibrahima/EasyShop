@@ -1,6 +1,6 @@
 # EasyShop
 
-This mini project is a webshop built using PHP and MySQL. The data security and integrity aree nsured with a hasing algorithm (sha 256) on both the server and client sides.
+This mini project is a webshop built using PHP and MySQL. The data security and integrity are ensured with a hasing algorithm (sha 256) on both the server and client sides.
 
 This mini project is just a basic shopping website NPT A REALLY ONE, JUST A FANCY PROJECT! No credit or debit card checkings ae being made in this version(let's see for the next one), thus no money withdrawal would occur or happen.
 
